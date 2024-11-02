@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "fortcafeapp"
+  },
+  "targets": {
+    "fortcafeapp": {
+      "hosting": {
+        "worker": [
+          "fortcafeworker"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
